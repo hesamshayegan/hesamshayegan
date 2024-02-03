@@ -13,14 +13,14 @@ Thank you for visiting my github repos!
 - 📫 How to reach me: hesamshayegan88@gmail.com
 
 
-## Tech stack:
+## Tech Stack:
 - Backend: Python, Node.js, Express, Flask, Django, PostgreSQL, SQLAlchemy, Insomnia, GCP
 - Frontend: JavaScript/ES6, HTML, CSS, React, jQuery, Bootstrap
 - Testing: Unit Testing, Integration Testing, Jasmine, Jest, React Testing Library
 - Git and Version Control System: Git, GitHub
 
 
-## Most Recent Project
+## Most Recent Projects:
 WarmUp - Full Stack
 
 *Climate Change-themed Quiz Application to educate people about the climate change problems and solutions.*
