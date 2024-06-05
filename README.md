@@ -6,14 +6,14 @@ Thank you for visiting my github repos!
 
 ## A little bit about me:
 
-- 🌉 I'm a Software Full Stack Developer based in SF!
-- ⚡ Four years of experience in civil engineering design and calculations.
-- 👩🏻‍💻 Currently contributing at [WeVote](https://wevote.us) as a software developer.
+- 🌉 I'm a Software Developer & Data Enthusiast based in SF!
+- 👩🏻‍💻 Currently working as a Data Analyst.
 - 🌳 Love stand-up comedies and outdoors.
 - 📫 How to reach me: hesamshayegan88@gmail.com
 
 
 ## Tech Stack:
+- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Power BI, Access, SQL 
 - Backend: Python, Node.js, Express, Flask, Django, PostgreSQL, SQLAlchemy, Insomnia, GCP
 - Frontend: JavaScript/ES6, HTML, CSS, React, jQuery, Bootstrap
 - Testing: Unit Testing, Integration Testing, Jasmine, Jest, React Testing Library
