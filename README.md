@@ -2,8 +2,6 @@
 
 Thank you for visiting my github repos!
 
-## Check out my portfolio at [hesamshayegan.com](http://hesamshayegan.com)
-
 ## A little bit about me:
 
 - 🌉 I'm a Software Developer & Data Enthusiast based in SF!
@@ -14,6 +12,7 @@ Thank you for visiting my github repos!
 
 ## Tech Stack:
 - Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Power BI, Access, SQL 
+- Data Engineering and Orchestration: Apache Kafka, Apache Airflow
 - Backend: Python, Node.js, Express, Flask, Django, PostgreSQL, SQLAlchemy, Insomnia, GCP
 - Frontend: JavaScript/ES6, HTML, CSS, React, jQuery, Bootstrap
 - Testing: Unit Testing, Integration Testing, Jasmine, Jest, React Testing Library
