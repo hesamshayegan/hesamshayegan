@@ -4,7 +4,7 @@ Thank you for visiting my github repos!
 
 ## A little bit about me:
 
-- 🌉 I'm a Software Developer & Data Enthusiast based in SF!
+- 🌉 I'm a Data Engineer & Analyst based in SF!
 - 👩🏻‍💻 Currently working as a Data Analyst.
 - 🌳 Love stand-up comedies and outdoors.
 - 📫 How to reach me: hesamshayegan88@gmail.com
@@ -14,7 +14,7 @@ Thank you for visiting my github repos!
 - Data Engineering & Orchestration: Apache Airflow, Apache Spark, Apache Kafka, Apache Hadoop
 - Data Analysis & Visualization: Pandas, NumPy, Looker, Power BI, Matplotlib
 - Programming & Scripting: Python, Shell Scripting, JavaScript
-- Cloud & Infrastructure: GCP, AWS
+- Cloud & Infrastructure: AWS, GCP, Terraform
 - Data Storage & Management: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Cassandra), MS Access
 
 
