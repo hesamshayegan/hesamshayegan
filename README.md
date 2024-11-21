@@ -19,6 +19,15 @@ Thank you for visiting my github repos!
 
 
 ## Most Recent Projects:
+Financial Market - Data Pipeline (in progress...)
+
+*Automated pipeline for collecting, processing, analyzing, and visualizing stock market data.*
+
+- AWS, Terraform, Airflow, DBT, PostgreSQL, Python
+- Repo: [https://github.com/hesamshayegan/financial-market-data-pipeline](https://github.com/hesamshayegan/financial-market-data-pipeline)
+
+<br>
+
 WarmUp - Full Stack
 
 *Climate Change-themed Quiz Application to educate people about the climate change problems and solutions.*
@@ -26,14 +35,6 @@ WarmUp - Full Stack
 - React, Express, Node, PostgreSQL, Material UI, React VIS
 - Demo Site: [https://warmup.surge.sh](https://warmup.surge.sh)
 - Repo: [https://github.com/hesamshayegan/WarmUp](https://github.com/hesamshayegan/WarmUp)
-
-MoviesBox - Full Stack
-
-*Movie recommender web application to recommend users movies based on their favorite titles or casts.*
-
-- Python, Flask, SQLAlchemy, Jinja, PostgreSQL, Bootstrap
-- Demo Site: [https://moviesbox-1fny.onrender.com](https://moviesbox-1fny.onrender.com)
-- Repo: [https://github.com/hesamshayegan/MoviesBox](https://github.com/hesamshayegan/MoviesBox)
 
 <br>
 
