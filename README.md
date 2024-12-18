@@ -23,7 +23,7 @@ Financial Market - Data Pipeline (in progress...)
 
 *Automated pipeline for collecting, processing, analyzing, and visualizing stock market data.*
 
-- AWS, Terraform, Airflow, DBT, PostgreSQL, Python
+- AWS, Terraform, Airflow, PostgreSQL, Python, Tableau
 - Repo: [https://github.com/hesamshayegan/financial-market-data-pipeline](https://github.com/hesamshayegan/financial-market-data-pipeline)
 
 <br>
