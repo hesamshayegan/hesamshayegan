@@ -12,7 +12,7 @@ Thank you for visiting my github repos!
 
 ## Tech Stack:
 - Data Engineering & Orchestration: Apache Airflow, Apache Spark, Apache Kafka, Apache Hadoop
-- Data Analysis & Visualization: Pandas, NumPy, Looker, Power BI, Matplotlib
+- Data Analysis & Visualization: Pandas, NumPy, Looker, Tableau, Matplotlib
 - Programming & Scripting: Python, Shell Scripting, JavaScript
 - Cloud & Infrastructure: AWS, GCP, Terraform
 - Data Storage & Management: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Cassandra), MS Access
