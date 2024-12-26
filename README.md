@@ -19,7 +19,7 @@ Thank you for visiting my github repos!
 
 
 ## Most Recent Projects:
-Financial Market - Data Pipeline (in progress...)
+Financial Market - Data Pipeline
 
 *Automated pipeline for collecting, processing, analyzing, and visualizing stock market data.*
 
