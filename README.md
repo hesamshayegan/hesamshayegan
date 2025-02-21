@@ -7,7 +7,6 @@ Thank you for visiting my github repos!
 - 🌉 I'm a Data Engineer & Analyst based in SF!
 - 👩🏻‍💻 Currently working as a Data Analyst.
 - 🌳 Love stand-up comedies and outdoors.
-- 📫 How to reach me: hesamshayegan88@gmail.com
 
 
 ## Tech Stack:
