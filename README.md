@@ -1,20 +1,13 @@
 <h1 align="center">Hi, I'm Hesam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"></h1>
 
-Thank you for visiting my github repos!
-
-## A little bit about me:
-
-- 🌉 I'm a Data Engineer & Analyst based in SF!
-- 👩🏻‍💻 Currently working as a Data Analyst.
-- 🌳 Love stand-up comedies and outdoors.
-
+A Data Analyst based in SF 🌉!
 
 ## Tech Stack:
-- Data Engineering & Orchestration: Apache Airflow, Apache Spark, Apache Kafka, Apache Hadoop
-- Data Analysis & Visualization: Pandas, NumPy, Looker, Tableau, Matplotlib
-- Programming & Scripting: Python, Shell Scripting, JavaScript
+- Data Engineering & Orchestration: Airflow, Spark, Kafka, Hadoop
+- Data Analysis & Visualization: Pandas, NumPy, Looker, Tableau, Power BI, Matplotlib
+- Programming & Scripting: Python, JavaScript, Shell Scripting
 - Cloud & Infrastructure: AWS, GCP, Terraform
-- Data Storage & Management: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Cassandra), MS Access
+- Data Storage & Management: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Cassandra), Access
 
 
 ## Most Recent Projects:
